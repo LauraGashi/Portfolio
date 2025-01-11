@@ -10,7 +10,7 @@ const projectsData = [
     title: "Netflix",
     description: "Project 1 description",
     image: "/images/projects/13.png",
-    tag: ["All", "Web"],
+    tag: ["All", "Web", "Mobile"],
     gitUrl: "/",
     previewUrl: "/",
   },
@@ -21,7 +21,7 @@ const projectsData = [
     image: "/images/projects/12.png",
     tag: ["All", "Web"],
     gitUrl: "/",
-    previewUrl: "/",
+    previewUrl: "https://victory-fitness.vercel.app/",
   },
   {
     id: 3,
